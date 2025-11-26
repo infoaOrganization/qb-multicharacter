@@ -1,0 +1,6 @@
+[submodule "ox_types"]
+	path = submodules/ox_types
+	url = https://github.com/overextended/ox_types.git
+[submodule "fivem-lls-addon"]
+	path = submodules/fivem-lls-addon
+	url = https://github.com/overextended/fivem-lls-addon.git

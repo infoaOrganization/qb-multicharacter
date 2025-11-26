@@ -1,0 +1,7 @@
+{
+    "runtime.version": "Lua 5.4",
+    "workspace.library": [
+        "submodules/ox_types/types",
+        "submodules/fivem-lls-addon/library"
+    ]
+}
